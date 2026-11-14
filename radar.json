@@ -1,18 +1,18 @@
 {
   "kw": "KW 46 / 2026",
-  "stand": "2026-11-14T07:05:12Z",
+  "stand": "2026-11-14T07:35:19Z",
   "top3": [
     {
       "name": "Motorworld Inn Restaurant, Hockenheim",
-      "grund": "Eröffnung am 21.11.2026 – in einer Woche. Erlebnisrestaurant mit ca. 200 Plätzen, 365 Tage offen. Erstausstattung und Stammlieferanten werden jetzt festgezurrt."
+      "grund": "Eröffnung am 21.11.2026 – in einer Woche. Erlebnisrestaurant mit ca. 200 Plätzen, 365 Tage offen; Erstausstattung und Stammlieferanten werden jetzt festgelegt."
+    },
+    {
+      "name": "Zum Propeller, Worms (Flugplatz)",
+      "grund": "Neuer Betreiber Familie Khullar, Start laut Plan in der 2. Novemberwoche – also genau jetzt. Frühstück, Mittag und Abend, 7 Tage die Woche: Lieferant für Grundsortiment wird gerade gesucht."
     },
     {
       "name": "Punjab Tandoori Restaurant, Heidelberg",
       "grund": "Gerade eröffnet (Bericht 12.11.2026). All-you-can-eat-Buffet mittags und abends an 7 Tagen – hoher Wareneinsatz, Lieferantenwahl in den ersten Wochen noch offen."
-    },
-    {
-      "name": "Pavillon am Rhein, Germersheim",
-      "grund": "Pächter ist Caterer Patrick Barth (Barth Gastro-Catering, Speyer). Neubau mit ca. 120 Gästen plus vermietbarem Eventgeschoss; Eröffnung Ende 2026 oder März/April 2027 – jetzt vor dem Start ansprechen."
     }
   ],
   "leads": [
@@ -24,9 +24,129 @@
       "kategorie": "neu",
       "datum": "eröffnet, Datum unklar (Bericht 12.11.2026)",
       "potenzial": "hoch",
-      "notiz": "Nachfolger des Asia-Restaurants Choa am Parkhaus Kornmarkt/Bergbahn. All-you-can-eat-Buffet Mo–Fr mittags + abends, Wochenende durchgehend.",
+      "notiz": "Nachfolger des Asia-Restaurants Choa am Kornmarkt/Bergbahn. All-you-can-eat-Buffet mittags und abends.",
       "quelle": "https://www.heidelberg24.de/heidelberg/restaurant-bergbahn-heidelberg-kornmarkt-choa-indisch-punjab-tandoori-94586126.html",
       "adresse": "Zwingerstraße 20, 69117 Heidelberg"
+    },
+    {
+      "name": "An Nam Vietnam Fusion",
+      "ort": "Mannheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Restaurant (vietnamesisch)",
+      "kategorie": "neu",
+      "datum": "jetzt eröffnet 05.11.2026",
+      "potenzial": "mittel",
+      "notiz": "Jetzt eröffnet (in KW 46 als Soft-Opening gemeldet). Im Stadthaus N1.",
+      "quelle": "https://www.mannheim24.de/mannheim/neueroeffnung-an-nam-vietnam-fusion-restaurant-stadthaus-n1-lokal-94578993.html",
+      "adresse": "Stadthaus N1, Mannheim"
+    },
+    {
+      "name": "Restaurant Zum Vogelpark",
+      "ort": "Oberhausen-Rheinhausen",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Restaurant (neuer Pächter)",
+      "kategorie": "neu",
+      "datum": "Wiedereröffnung 09.11.2026",
+      "potenzial": "mittel",
+      "notiz": "Wiedereröffnung unter neuem Pächter.",
+      "quelle": "https://www.neueroeffnung.info/rheinhausen/restaurant-zum-vogelpark",
+      "adresse": null
+    },
+    {
+      "name": "Café Sophie'sche",
+      "ort": "Bürstadt",
+      "teilgebiet": "Bergstraße/Ried",
+      "art": "Café",
+      "kategorie": "neu",
+      "datum": "Wiedereröffnung 01.11.2026",
+      "potenzial": "gering",
+      "notiz": "Wiedereröffnung, kleines Café.",
+      "quelle": "https://www.neueroeffnung.info/buerstadt/cafe-sophiesche",
+      "adresse": null
+    },
+    {
+      "name": "Neues Lokal im früheren Eiscafé bei Galeria",
+      "ort": "Speyer",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Café/Restaurant (Name unklar)",
+      "kategorie": "neu",
+      "datum": "Datum unklar (Artikel ca. Okt./Nov. 2026)",
+      "potenzial": "mittel",
+      "notiz": "NEU. Nachnutzung des früheren Eiscafés am Galeria-Kaufhaus, Innenstadtlage. Details hinter Bezahlschranke (Rheinpfalz Plus). Abgrenzung zu Mamas Café/Café Finesse prüfen.",
+      "quelle": "https://www.rheinpfalz.de/lokal/speyer_artikel,-fr%C3%BCheres-eiscaf%C3%A9-bei-galeria-das-bietet-das-neue-lokal-_arid,5904754.html",
+      "adresse": null
+    },
+    {
+      "name": "Neues Lokal nach über 1 Jahr Leerstand",
+      "ort": "Grünstadt",
+      "teilgebiet": "Worms/Frankenthal",
+      "art": "Gastronomie (Name unklar)",
+      "kategorie": "neu",
+      "datum": "Datum unklar (Artikel ca. Okt./Nov. 2026)",
+      "potenzial": "mittel",
+      "notiz": "NEU. Wiederbelebung einer leerstehenden Gastrofläche. Details hinter Bezahlschranke (Rheinpfalz Plus).",
+      "quelle": "https://www.rheinpfalz.de/lokal/gruenstadt_artikel,-nach-mehr-als-einem-jahr-leerstand-in-gr%C3%BCnstadt-gibts-ein-neues-lokal-_arid,5903025.html",
+      "adresse": null
+    },
+    {
+      "name": "Mittagsverpflegung Stadt Hemsbach (Mensa Hebelschule + 4 Einr.)",
+      "ort": "Hemsbach",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Schul-/Kitaverpflegung",
+      "kategorie": "gv",
+      "datum": "Caterer seit Aug./Sept. 2026",
+      "potenzial": "mittel",
+      "notiz": "Stand unverändert: Betreiber des neuen Caterers unbekannt – nachfragen, wer beliefert wird.",
+      "quelle": "https://auftrag.ai/notices/mittagsverpflegung-stadt-hemsbach-und-schulverband-noerdliche-badische-bergstrasse-2026-1",
+      "adresse": null
+    },
+    {
+      "name": "Ausschreibung Mittagsverpflegung Kita Spatzennest / 4 GS / Kurt-Waibel-Schule",
+      "ort": "Schwetzingen",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Ausschreibung Schul-/Kitaessen",
+      "kategorie": "gv",
+      "datum": "Angebotsfrist 01.12.2026",
+      "potenzial": "hoch",
+      "notiz": "Signal: Ausschreibung. Bietende Caterer jetzt als Kunden ansprechen (Frist läuft).",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "Ausschreibung Mittagsverpflegung Schulen (Los EU 4)",
+      "ort": "Mannheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Ausschreibung Schulessen",
+      "kategorie": "gv",
+      "datum": "Ausschreibung seit 19.10.2026",
+      "potenzial": "mittel",
+      "notiz": "Signal: Ausschreibung. Zuschlag abwarten, dann Caterer ansprechen.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "Ausschreibung Mittagsverpflegung cook&hold",
+      "ort": "Wiesloch",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Ausschreibung Schul-/Kitaessen",
+      "kategorie": "gv",
+      "datum": "Datum unklar",
+      "potenzial": "mittel",
+      "notiz": "Signal: Ausschreibung (cook&hold).",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "Prot. Kita Regenbogen (Neubau)",
+      "ort": "Ellerstadt",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Kita mit Mittagessen",
+      "kategorie": "gv",
+      "datum": "Q1 2027",
+      "potenzial": "gering",
+      "notiz": "Signal: Neubau Kita, Verpflegungskonzept offen.",
+      "quelle": null,
+      "adresse": null
     },
     {
       "name": "Motorworld Inn Restaurant",
@@ -36,19 +156,19 @@
       "kategorie": "bald",
       "datum": "21.11.2026",
       "potenzial": "hoch",
-      "notiz": "Update: Termin 21.11. (lt. Vorwoche) steht, ca. 200 Plätze, 365 Tage geöffnet. Hotel wird bis 2027 zum Motorworld Inn Hotel umgebaut.",
+      "notiz": "Termin bestätigt, ca. 200 Plätze, 365 Tage geöffnet. Hotel wird bis Q2 2027 zum Motorworld Inn Hotel umgebaut.",
       "quelle": "https://www.heidelberg24.de/region/hockenheimring-bekommt-neue-motorworld-das-ist-alles-geplant-94533647.html",
       "adresse": "Am Hockenheimring, Hockenheim"
     },
     {
-      "name": "Nebsi's Burger",
+      "name": "Nebsi's Burger (2. Standort)",
       "ort": "Mannheim",
       "teilgebiet": "Rhein-Neckar",
       "art": "Burger-Imbiss/Restaurant",
       "kategorie": "bald",
       "datum": "Mitte bis Ende Nov. 2026",
       "potenzial": "mittel",
-      "notiz": "Update: 2. Standort des Burgerladens aus der Schönau, Eröffnung voraussichtlich Mitte–Ende November.",
+      "notiz": "Update: weiter für Mitte–Ende November gelistet.",
       "quelle": "https://www.neueroeffnung.info/mannheim/nebsis-burger",
       "adresse": "R 4 14, 68161 Mannheim"
     },
@@ -60,9 +180,33 @@
       "kategorie": "bald",
       "datum": "Dez. 2026 (voraussichtlich)",
       "potenzial": "mittel",
-      "notiz": "Update: Eröffnung weiter für Dezember 2026 gelistet. Zweites Premier Inn in Mannheim.",
+      "notiz": "Weiter für Dezember 2026 gelistet.",
       "quelle": "https://www.neueroeffnung.info/mannheim/premier-inn-hotel-city-quadratestadt",
       "adresse": "T1 6, 68161 Mannheim"
+    },
+    {
+      "name": "SLR Hotel",
+      "ort": "St. Leon-Rot",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Hotel",
+      "kategorie": "bald",
+      "datum": "Jan. 2027",
+      "potenzial": "mittel",
+      "notiz": "Stand aus KW 46 unverändert.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "a&o Hostel",
+      "ort": "Heidelberg",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Hostel (Frühstück)",
+      "kategorie": "bald",
+      "datum": "Ende 2026",
+      "potenzial": "gering",
+      "notiz": "Stand aus KW 46 unverändert.",
+      "quelle": null,
+      "adresse": "Speyerer Str. 5, Heidelberg"
     },
     {
       "name": "ibis budget Weinheim",
@@ -72,9 +216,93 @@
       "kategorie": "bald",
       "datum": "verschoben, neuer Termin unklar",
       "potenzial": "gering",
-      "notiz": "Update 11.11.2026: Eröffnung (geplant 15.11.) erneut verschoben; neuer Zeitraum von Accor genannt, Details hinter Bezahlschranke. Ehem. Ebert Park Hotel.",
+      "notiz": "Eröffnung (geplant 15.11.) erneut verschoben; Details hinter Bezahlschranke.",
       "quelle": "https://wnoz.de/nachrichten/weinheim-und-bergstrasse/eroeffnung-des-ibis-budget-in-weinheim-verschiebt-sich-erneut-1174082.html",
       "adresse": "Freiburger Straße 42, Weinheim"
+    },
+    {
+      "name": "Landgasthof zum Löwen",
+      "ort": "Graben-Neudorf",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Landgasthof (Wiedereröffnung nach Umzug)",
+      "kategorie": "bald",
+      "datum": "geplant 01.12.2026",
+      "potenzial": "mittel",
+      "notiz": "NEU. Gebietsrand (südl. Philippsburg). Eintrag als 'Gerücht' gelistet – unbestätigt, Betreiber unbekannt.",
+      "quelle": "https://www.neueroeffnung.info/graben-neudorf/landgasthof-zum-loewen_1",
+      "adresse": null
+    },
+    {
+      "name": "Taste of the Dragon (Pop-up)",
+      "ort": "Heidelberg",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Pop-up-Restaurant",
+      "kategorie": "bald",
+      "datum": "04.02.2027",
+      "potenzial": "gering",
+      "notiz": "Stand aus KW 46 unverändert.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "KFC (Drive-in, B426)",
+      "ort": "Pfungstadt",
+      "teilgebiet": "Bergstraße/Ried",
+      "art": "Systemgastronomie",
+      "kategorie": "bald",
+      "datum": "26.11.2026",
+      "potenzial": "mittel",
+      "notiz": "Gebietsrand Nord. Pizza Hut/Taco Bell am selben Standort, Termin offen.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "Restaurant Titzmann – Im Weißen Kreuz",
+      "ort": "Lorsch",
+      "teilgebiet": "Bergstraße/Ried",
+      "art": "Restaurant",
+      "kategorie": "bald",
+      "datum": "Nov. 2026",
+      "potenzial": "mittel",
+      "notiz": "Stand aus KW 46: Eröffnung im November angekündigt, genauen Termin vor Anruf prüfen.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "Gaststätte Altes Rathaus",
+      "ort": "Einhausen",
+      "teilgebiet": "Bergstraße/Ried",
+      "art": "Gaststätte",
+      "kategorie": "bald",
+      "datum": "Q4 2026, Pächter offen",
+      "potenzial": "mittel",
+      "notiz": "Signal: Pächtersuche der Gemeinde.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "Zum Propeller (neuer Betreiber Fam. Khullar)",
+      "ort": "Worms",
+      "teilgebiet": "Worms/Frankenthal",
+      "art": "Restaurant am Flugplatz",
+      "kategorie": "bald",
+      "datum": "2. Novemberwoche 2026 (Eröffnung nicht bestätigt)",
+      "potenzial": "hoch",
+      "notiz": "Update: Termin nach Verzögerung auf 2. Novemberwoche gelegt, Mo–So 11–23 Uhr, Frühstück/Mittag/Abend. Ob schon offen, unklar – jetzt anrufen.",
+      "quelle": "https://www.neueroeffnung.info/worms/zum-propeller-restaurant",
+      "adresse": "Am Flugplatz 3, 67547 Worms"
+    },
+    {
+      "name": "Parkschenke",
+      "ort": "Grünstadt",
+      "teilgebiet": "Worms/Frankenthal",
+      "art": "Gaststätte (Pächtersuche)",
+      "kategorie": "bald",
+      "datum": "Datum unklar",
+      "potenzial": "gering",
+      "notiz": "NEU. Signal: Pächtersuche mit Rückschlag. Details hinter Bezahlschranke (Rheinpfalz Plus).",
+      "quelle": "https://www.rheinpfalz.de/lokal/gruenstadt_artikel,-parkschenke-r%C3%BCckschlag-bei-p%C3%A4chtersuche-_arid,5906795.html",
+      "adresse": null
     },
     {
       "name": "Pavillon am Rhein",
@@ -84,9 +312,33 @@
       "kategorie": "bald",
       "datum": "Ende 2026 oder März/April 2027",
       "potenzial": "hoch",
-      "notiz": "Update: Pächter Patrick Barth (Barth Gastro-Catering, Speyer). Innen 14–18 Plätze, Terrasse + OG ca. 120 Gäste, OG für Hochzeiten/Firmenfeiern. Artikeldatum unklar.",
-      "quelle": "https://www.rheinpfalz.de/lokal/kreis-germersheim_artikel,-modern-trifft-tradition-neuer-pavillon-erh%C3%A4lt-steg-_arid,5887337.html",
-      "adresse": "Am Rhein (ehem. Brückenwache), Germersheim"
+      "notiz": "Pächter Patrick Barth (Barth Gastro-Catering, Speyer). Terrasse + OG ca. 120 Gäste, OG für Hochzeiten/Firmenfeiern.",
+      "quelle": "https://www.pfalz-express.de/germersheim-gastronomie-am-rhein-bleibt-in-vertrauten-haenden-zuschlag-fuer-firma-barth/",
+      "adresse": "Am Rhein, Germersheim"
+    },
+    {
+      "name": "Mamas Café (Mamas Speyer Gastro GmbH)",
+      "ort": "Speyer",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Café",
+      "kategorie": "bald",
+      "datum": "Dez. 2026",
+      "potenzial": "mittel",
+      "notiz": "Signal: Stellenanzeige. Stand aus KW 46 unverändert.",
+      "quelle": null,
+      "adresse": null
+    },
+    {
+      "name": "SAKS Urban Designhotel",
+      "ort": "Neustadt an der Weinstraße",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Hotel",
+      "kategorie": "bald",
+      "datum": "Ende 2026",
+      "potenzial": "mittel",
+      "notiz": "Stand aus KW 46 unverändert; Termin vor Anruf prüfen.",
+      "quelle": null,
+      "adresse": null
     }
   ]
 }
