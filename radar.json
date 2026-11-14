@@ -1,6 +1,92 @@
 {
   "kw": "KW 46 / 2026",
-  "stand": "2026-11-14T00:00:00Z",
-  "top3": [],
-  "leads": []
+  "stand": "2026-11-14T07:05:12Z",
+  "top3": [
+    {
+      "name": "Motorworld Inn Restaurant, Hockenheim",
+      "grund": "Eröffnung am 21.11.2026 – in einer Woche. Erlebnisrestaurant mit ca. 200 Plätzen, 365 Tage offen. Erstausstattung und Stammlieferanten werden jetzt festgezurrt."
+    },
+    {
+      "name": "Punjab Tandoori Restaurant, Heidelberg",
+      "grund": "Gerade eröffnet (Bericht 12.11.2026). All-you-can-eat-Buffet mittags und abends an 7 Tagen – hoher Wareneinsatz, Lieferantenwahl in den ersten Wochen noch offen."
+    },
+    {
+      "name": "Pavillon am Rhein, Germersheim",
+      "grund": "Pächter ist Caterer Patrick Barth (Barth Gastro-Catering, Speyer). Neubau mit ca. 120 Gästen plus vermietbarem Eventgeschoss; Eröffnung Ende 2026 oder März/April 2027 – jetzt vor dem Start ansprechen."
+    }
+  ],
+  "leads": [
+    {
+      "name": "Punjab Tandoori Restaurant",
+      "ort": "Heidelberg",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Restaurant (indisch, Buffet)",
+      "kategorie": "neu",
+      "datum": "eröffnet, Datum unklar (Bericht 12.11.2026)",
+      "potenzial": "hoch",
+      "notiz": "Nachfolger des Asia-Restaurants Choa am Parkhaus Kornmarkt/Bergbahn. All-you-can-eat-Buffet Mo–Fr mittags + abends, Wochenende durchgehend.",
+      "quelle": "https://www.heidelberg24.de/heidelberg/restaurant-bergbahn-heidelberg-kornmarkt-choa-indisch-punjab-tandoori-94586126.html",
+      "adresse": "Zwingerstraße 20, 69117 Heidelberg"
+    },
+    {
+      "name": "Motorworld Inn Restaurant",
+      "ort": "Hockenheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Erlebnisrestaurant (Hotel Motodrom)",
+      "kategorie": "bald",
+      "datum": "21.11.2026",
+      "potenzial": "hoch",
+      "notiz": "Update: Termin 21.11. (lt. Vorwoche) steht, ca. 200 Plätze, 365 Tage geöffnet. Hotel wird bis 2027 zum Motorworld Inn Hotel umgebaut.",
+      "quelle": "https://www.heidelberg24.de/region/hockenheimring-bekommt-neue-motorworld-das-ist-alles-geplant-94533647.html",
+      "adresse": "Am Hockenheimring, Hockenheim"
+    },
+    {
+      "name": "Nebsi's Burger",
+      "ort": "Mannheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Burger-Imbiss/Restaurant",
+      "kategorie": "bald",
+      "datum": "Mitte bis Ende Nov. 2026",
+      "potenzial": "mittel",
+      "notiz": "Update: 2. Standort des Burgerladens aus der Schönau, Eröffnung voraussichtlich Mitte–Ende November.",
+      "quelle": "https://www.neueroeffnung.info/mannheim/nebsis-burger",
+      "adresse": "R 4 14, 68161 Mannheim"
+    },
+    {
+      "name": "Premier Inn City Quadratestadt",
+      "ort": "Mannheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Hotel (Frühstück/Bar)",
+      "kategorie": "bald",
+      "datum": "Dez. 2026 (voraussichtlich)",
+      "potenzial": "mittel",
+      "notiz": "Update: Eröffnung weiter für Dezember 2026 gelistet. Zweites Premier Inn in Mannheim.",
+      "quelle": "https://www.neueroeffnung.info/mannheim/premier-inn-hotel-city-quadratestadt",
+      "adresse": "T1 6, 68161 Mannheim"
+    },
+    {
+      "name": "ibis budget Weinheim",
+      "ort": "Weinheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Hotel (Frühstück)",
+      "kategorie": "bald",
+      "datum": "verschoben, neuer Termin unklar",
+      "potenzial": "gering",
+      "notiz": "Update 11.11.2026: Eröffnung (geplant 15.11.) erneut verschoben; neuer Zeitraum von Accor genannt, Details hinter Bezahlschranke. Ehem. Ebert Park Hotel.",
+      "quelle": "https://wnoz.de/nachrichten/weinheim-und-bergstrasse/eroeffnung-des-ibis-budget-in-weinheim-verschiebt-sich-erneut-1174082.html",
+      "adresse": "Freiburger Straße 42, Weinheim"
+    },
+    {
+      "name": "Pavillon am Rhein",
+      "ort": "Germersheim",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Gaststätte/Biergarten + Eventfläche",
+      "kategorie": "bald",
+      "datum": "Ende 2026 oder März/April 2027",
+      "potenzial": "hoch",
+      "notiz": "Update: Pächter Patrick Barth (Barth Gastro-Catering, Speyer). Innen 14–18 Plätze, Terrasse + OG ca. 120 Gäste, OG für Hochzeiten/Firmenfeiern. Artikeldatum unklar.",
+      "quelle": "https://www.rheinpfalz.de/lokal/kreis-germersheim_artikel,-modern-trifft-tradition-neuer-pavillon-erh%C3%A4lt-steg-_arid,5887337.html",
+      "adresse": "Am Rhein (ehem. Brückenwache), Germersheim"
+    }
+  ]
 }
