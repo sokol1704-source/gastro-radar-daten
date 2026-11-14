@@ -1,0 +1,39 @@
+name: Radar auf main übernehmen
+
+on:
+  push:
+    branches:
+      - "claude/**"
+    paths:
+      - "radar.json"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo holen
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: radar.json prüfen
+        run: python3 -m json.tool radar.json > /dev/null
+
+      - name: Auf main übernehmen
+        run: |
+          git config user.name "Gastro-Radar"
+          git config user.email "noreply@anthropic.com"
+          git fetch origin main
+          git checkout -B main origin/main
+          cp radar.json /tmp/radar.json
+          git show "$GITHUB_SHA:radar.json" > radar.json
+          git add radar.json
+          if git diff --cached --quiet; then
+            echo "radar.json ist auf main bereits aktuell."
+            exit 0
+          fi
+          git commit -m "Radar aus ${GITHUB_REF_NAME} übernommen"
+          git push origin HEAD:main
