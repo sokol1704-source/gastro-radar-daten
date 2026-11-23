@@ -1,21 +1,45 @@
 {
-  "kw": "KW 47 / 2026",
-  "stand": "2026-11-16T05:59:08Z",
+  "kw": "KW 48 / 2026",
+  "stand": "2026-11-23T05:58:06Z",
   "top3": [
     {
       "name": "Motorworld Inn Restaurant, Hockenheim",
-      "grund": "Eröffnung am Samstag, 21.11.2026 – letzte Chance vor dem Start. Ca. 200 Plätze, ganzjährig geöffnet; Erstausstattung und Stammlieferanten werden jetzt festgelegt."
+      "grund": "Start war für Samstag, 21.11.2026 geplant – jetzt in den ersten Betriebstagen anrufen. Ca. 200 Plätze, ganzjährig; Stammlieferanten werden gerade festgelegt. Eröffnung vorher kurz prüfen."
     },
     {
       "name": "Weinrefugium, Bad Dürkheim-Seebach",
-      "grund": "Neues Restaurant öffnet am 17.12.2026 (Nachfolger des Käsbüros, das am 22.11. schließt). Ideales Zeitfenster: Sortiment und Lieferanten werden in den nächsten 4 Wochen geplant."
+      "grund": "Käsbüro hat am 22.11. geschlossen, das neue Restaurant öffnet am 17.12.2026. Genau jetzt laufen Umbau und Sortimentsplanung."
     },
     {
-      "name": "Il Pane e Vino, Schriesheim",
-      "grund": "Seit Freitag, 13.11.2026 am neuen, größeren Standort im früheren „Kaiser“ – direkt neben Dossenheim. Mehr Plätze = mehr Bedarf, Lieferantenmix wird gerade neu sortiert."
+      "name": "Café Novo, Weinheim",
+      "grund": "Neustart des Cafe Amo am Marktplatz 4 unter neuer Leitung am 01.12.2026 – eine Woche vorher anrufen, bevor die Lieferanten feststehen."
     }
   ],
   "leads": [
+    {
+      "name": "Motorworld Inn Restaurant",
+      "ort": "Hockenheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Erlebnisrestaurant (à la carte)",
+      "kategorie": "neu",
+      "datum": "Start geplant Sa. 21.11.2026 (Eröffnung nicht bestätigt)",
+      "potenzial": "hoch",
+      "notiz": "UPDATE: Termin 21.11. lag am Wochenende, eine Bestätigung der Eröffnung wurde noch nicht gefunden. Ca. 200 Plätze, ganzjährig; Steaks, Burger, Pasta, Pinsa. Hotel Motodrom wird bis 2027 zum Motorworld Inn Hotel. Jetzt anrufen.",
+      "quelle": "https://www.tageskarte.io/hotellerie/detail/neue-motorworld-hockenheimring-mit-hotel-gastronomie-und-eventflaechen.html",
+      "adresse": "Hockenheimring, Hockenheim"
+    },
+    {
+      "name": "KFC an den Planken (4. Standort)",
+      "ort": "Mannheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Systemgastronomie (Franchise)",
+      "kategorie": "neu",
+      "datum": "eröffnet Di. 17.11.2026",
+      "potenzial": "mittel",
+      "notiz": "NEU. Viertes KFC in Mannheim, ca. 78 Plätze, betrieben von einem Franchisepartner. Kernsortiment meist über Systemlieferant – Chance eher bei Ergänzungs-/Non-Food-Bedarf.",
+      "quelle": "https://www.hogapage.de/nachrichten/wirtschaft/gastronomie/city-lage-im-visier-kfc-plant-100-neue-restaurants/",
+      "adresse": "O6 2, 68161 Mannheim"
+    },
     {
       "name": "Il Pane e Vino (neuer Standort im früheren Restaurant Kaiser)",
       "ort": "Schriesheim",
@@ -24,7 +48,7 @@
       "kategorie": "neu",
       "datum": "eröffnet Fr. 13.11.2026",
       "potenzial": "hoch",
-      "notiz": "NEU. Umzug vom Schillerplatz/Schillerstraße in das frühere Restaurant „Kaiser“ (Heidelberger Straße); Eröffnung ohne Werbung. Größere Fläche, direkt im Nachbarort von Dossenheim.",
+      "notiz": "Bekannt aus KW 47. Seit 13.11.2026 am neuen, größeren Standort im früheren „Kaiser“ – direkt im Nachbarort von Dossenheim.",
       "quelle": "https://www.rnz.de/region/rhein-neckar_artikel,-Schriesheim-Im-Restaurant-Kaiser-ist-jetzt-der-Italiener-Il-Pane-e-Vino-_arid,2337457.html",
       "adresse": "Heidelberger Straße, 69198 Schriesheim"
     },
@@ -36,9 +60,9 @@
       "kategorie": "neu",
       "datum": "eröffnet, Datum unklar (Bericht 12.11.2026)",
       "potenzial": "hoch",
-      "notiz": "Bekannt aus KW 46. Nachfolger des Asia-Restaurants Choa am Kornmarkt/Bergbahn, All-you-can-eat-Buffet mittags und abends.",
+      "notiz": "Bekannt aus KW 46. Nachfolger des Asia-Restaurants Choa (Zwingerstraße 20, Kornmarkt/Bergbahn), Buffet mittags und abends.",
       "quelle": "https://www.heidelberg24.de/heidelberg/restaurant-bergbahn-heidelberg-kornmarkt-choa-indisch-punjab-tandoori-94586126.html",
-      "adresse": "Kornmarkt, Heidelberg"
+      "adresse": "Zwingerstraße 20, Heidelberg"
     },
     {
       "name": "An Nam Vietnam Fusion",
@@ -77,6 +101,18 @@
       "adresse": "Siegfriedstraße 55-57, Bürstadt"
     },
     {
+      "name": "Zum Poseidon – Clubheim (Geschwister Arena)",
+      "ort": "Worms",
+      "teilgebiet": "Worms/Frankenthal",
+      "art": "Restaurant (mediterran, Vereinsgaststätte)",
+      "kategorie": "neu",
+      "datum": "Start angekündigt 04.11.2026",
+      "potenzial": "mittel",
+      "notiz": "NEU. Die Geschwister Arena (vorher „Presto Presto“ in der Innenstadt) betreiben das frisch renovierte Clubheim des Schwimmclubs Poseidon mit mediterraner Küche. Ob der Termin gehalten wurde, vor Anruf prüfen.",
+      "quelle": "https://www.poseidon-worms.de/gaststaette",
+      "adresse": "Carl-Villinger-Straße 47, Worms"
+    },
+    {
       "name": "Café Konrad",
       "ort": "Frankenthal",
       "teilgebiet": "Worms/Frankenthal",
@@ -84,7 +120,7 @@
       "kategorie": "neu",
       "datum": "eröffnet, Datum unklar (Bericht ca. Nov. 2026)",
       "potenzial": "gering",
-      "notiz": "NEU. Betreiberin Christina Semere, in früherer Bäckerei im Lauterecken-Viertel (dort sonst keine Gastronomie). Details hinter Bezahlschranke (Rheinpfalz Plus).",
+      "notiz": "Bekannt aus KW 47. Betreiberin Christina Semere, in früherer Bäckerei im Lauterecken-Viertel. Details hinter Bezahlschranke (Rheinpfalz Plus).",
       "quelle": "https://www.rheinpfalz.de/lokal/frankenthal_artikel,-neues-caf%C3%A9-in-einem-besonderen-teil-von-frankenthal-_arid,5912339.html",
       "adresse": "Karl-Marx-Straße 19, Frankenthal"
     },
@@ -101,6 +137,18 @@
       "adresse": null
     },
     {
+      "name": "Restaurant Olivia",
+      "ort": "Speyer",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Restaurant (italienisch)",
+      "kategorie": "neu",
+      "datum": "eröffnet 25.10.2026 (nachgetragen)",
+      "potenzial": "mittel",
+      "notiz": "NEU im Radar (nachgetragen). Italiener im ehemaligen „Antica Roma“. Erste Wochen vorbei – Lieferantenmix steht, aber oft noch offen für Ergänzungen.",
+      "quelle": "https://www.neueroeffnung.info/speyer/olivia-restaurant",
+      "adresse": null
+    },
+    {
       "name": "Zum Elefanten (früheres Eiscafé bei Galeria)",
       "ort": "Speyer",
       "teilgebiet": "Vorderpfalz",
@@ -108,7 +156,7 @@
       "kategorie": "neu",
       "datum": "eröffnet (Vollbetrieb ab ca. Anfang Nov. 2026)",
       "potenzial": "mittel",
-      "notiz": "UPDATE zu KW 46: Name „Zum Elefanten“, Betreiberin Katharina Schepelmann (Zweitbetrieb ihres Germersheimer „Elefanten“). Zunächst Mi–So 10–18 Uhr, Schwerpunkt To-go, weitere Tage geplant.",
+      "notiz": "Bekannt aus KW 47. Betreiberin Katharina Schepelmann (Zweitbetrieb ihres Germersheimer „Elefanten“). Mi–So 10–18 Uhr, Schwerpunkt To-go.",
       "quelle": "https://www.rheinpfalz.de/lokal/speyer_artikel,-fr%C3%BCheres-eiscaf%C3%A9-bei-galeria-das-bietet-das-neue-lokal-_arid,5904754.html",
       "adresse": "Karlsgasse (Galeria-Gebäude), Speyer"
     },
@@ -120,7 +168,7 @@
       "kategorie": "neu",
       "datum": "eröffnet, Datum unklar (Bericht ca. Ende Okt./Nov. 2026)",
       "potenzial": "mittel",
-      "notiz": "NEU. Griechische Familie, mediterrane Küche, setzt auf Frische und Originalrezepte. Details hinter Bezahlschranke.",
+      "notiz": "Bekannt aus KW 47. Griechische Familie, mediterrane Küche. Details hinter Bezahlschranke.",
       "quelle": "https://www.rheinpfalz.de/lokal/bad-duerkheim_artikel,-neues-griechisches-restaurant-in-bad-d%C3%BCrkheim-notos-kuzina-setzt-auf-mediterrane-k%C3%BCche-_arid,5940071.html",
       "adresse": null
     },
@@ -132,7 +180,7 @@
       "kategorie": "neu",
       "datum": "Wiedereröffnung geplant Okt. 2026 (Status prüfen)",
       "potenzial": "mittel",
-      "notiz": "NEU. Pfälzisches Restaurant im ehemaligen Gasthaus „Zum Engel“. Ob schon geöffnet, unbestätigt.",
+      "notiz": "Bekannt aus KW 47. Pfälzisches Restaurant im ehemaligen Gasthaus „Zum Engel“. Ob schon geöffnet, weiter unbestätigt.",
       "quelle": "https://www.neueroeffnung.info/roemerberg/zwei-reben-restaurant",
       "adresse": null
     },
@@ -144,7 +192,7 @@
       "kategorie": "gv",
       "datum": "Angebotsfrist 01.12.2026",
       "potenzial": "hoch",
-      "notiz": "Signal: Ausschreibung. Frist in gut 2 Wochen; bietende Caterer jetzt ansprechen. Wertung 60 % Preis, 20 % Qualität, 20 % Zuverlässigkeit.",
+      "notiz": "UPDATE: Angebotsfrist 01.12.2026 – noch eine Woche. Bietende Caterer jetzt ansprechen. Wertung 60 % Preis, 20 % Qualität, 20 % Zuverlässigkeit.",
       "quelle": "https://tendigo.de/ausschreibung/mittagsverpflegung-fuer-den-staedtischen-kindergarten-spatze-359ad18411",
       "adresse": null
     },
@@ -168,8 +216,8 @@
       "kategorie": "gv",
       "datum": "Ausschreibung seit 19.10.2026",
       "potenzial": "mittel",
-      "notiz": "Signal: Ausschreibung. Zuschlag abwarten, dann Caterer ansprechen.",
-      "quelle": null,
+      "notiz": "Signal: Ausschreibung. Zusätzlich Los „Mittagsverpflegung für drei/vier Mannheimer Schulen“ (Vergabe voraussichtl. Q1 2027) gelistet. Zuschlag abwarten, dann Caterer ansprechen.",
+      "quelle": "https://vergabehero.eu/ausschreibungen/mittagsverpflegung-fuer-vier-mannheimer-schulen--cmtidgles0dht744ocamqpcdc",
       "adresse": null
     },
     {
@@ -185,6 +233,18 @@
       "adresse": null
     },
     {
+      "name": "Pflegeheim „Haus am Rheinbogen“ (Ev. Heimstiftung, Neubau)",
+      "ort": "Altlußheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Pflegeheim-Neubau",
+      "kategorie": "gv",
+      "datum": "Datum unklar (Förderung bewilligt Nov. 2026)",
+      "potenzial": "mittel",
+      "notiz": "NEU. Signal: Förderzusage 300.000 € (Bericht 11.11.2026). 45 stationäre Pflegeplätze + 10 Wohnungen Betreutes Wohnen, Salierstraße, ca. 15 Mio. €. Verpflegungskonzept früh beim Träger erfragen.",
+      "quelle": "https://pressemeier.de/2026/11/11/300-000-euro-foerderung-fuer-neues-pflegeheim-in-altlussheim/",
+      "adresse": "Salierstraße, Altlußheim"
+    },
+    {
       "name": "Prot. Kita Regenbogen (Neubau)",
       "ort": "Ellerstadt",
       "teilgebiet": "Vorderpfalz",
@@ -197,26 +257,14 @@
       "adresse": null
     },
     {
-      "name": "Motorworld Inn Restaurant",
-      "ort": "Hockenheim",
-      "teilgebiet": "Rhein-Neckar",
-      "art": "Erlebnisrestaurant (à la carte)",
-      "kategorie": "bald",
-      "datum": "21.11.2026",
-      "potenzial": "hoch",
-      "notiz": "Termin weiter so gemeldet (Sa. dieser Woche). Ca. 200 Plätze, ganzjährig; Steaks, Burger, Pasta, Pinsa. Hotel Motodrom wird bis 2027 zum Motorworld Inn Hotel.",
-      "quelle": "https://www.tageskarte.io/hotellerie/detail/neue-motorworld-hockenheimring-mit-hotel-gastronomie-und-eventflaechen.html",
-      "adresse": "Hockenheimring, Hockenheim"
-    },
-    {
       "name": "Nebsi's Burger (2. Standort)",
       "ort": "Mannheim",
       "teilgebiet": "Rhein-Neckar",
       "art": "Burger-Restaurant",
       "kategorie": "bald",
-      "datum": "Mitte bis Ende Nov. 2026",
+      "datum": "Mitte bis Ende Nov. 2026 (nicht bestätigt)",
       "potenzial": "mittel",
-      "notiz": "Bekannt. Termin vor Anruf prüfen.",
+      "notiz": "Bekannt. Keine Bestätigung der Eröffnung gefunden – vor Anruf prüfen.",
       "quelle": "https://www.neueroeffnung.info/mannheim/nebsis-burger",
       "adresse": null
     },
@@ -228,9 +276,33 @@
       "kategorie": "bald",
       "datum": "Dez. 2026 (voraussichtlich)",
       "potenzial": "mittel",
-      "notiz": "Bekannt. Weiter für Dezember 2026 gelistet.",
+      "notiz": "Bekannt. Weiter für Dezember 2026 gelistet; Haus in T1 auf der Premier-Inn-Seite bereits als neues Hotel geführt.",
       "quelle": "https://www.neueroeffnung.info/mannheim/premier-inn-hotel-city-quadratestadt",
       "adresse": null
+    },
+    {
+      "name": "Manti Manufaktur",
+      "ort": "Heidelberg",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Restaurant (Health Food / Manti)",
+      "kategorie": "bald",
+      "datum": "Q4 2026",
+      "potenzial": "mittel",
+      "notiz": "NEU. Health-Food-Restaurant, als Neueröffnung für Q4 2026 gelistet. Genauer Termin und Adresse vor Anruf prüfen.",
+      "quelle": "https://www.neueroeffnung.info/heidelberg/manti-manufaktur",
+      "adresse": null
+    },
+    {
+      "name": "Café Novo (Nachfolger Cafe Amo)",
+      "ort": "Weinheim",
+      "teilgebiet": "Rhein-Neckar",
+      "art": "Café / Treffpunkt",
+      "kategorie": "bald",
+      "datum": "01.12.2026",
+      "potenzial": "hoch",
+      "notiz": "NEU. Aus dem bisherigen Cafe Amo am Marktplatz wird unter neuer Leitung das Cafe Novo. Neustart in einer Woche – jetzt anrufen, solange Lieferanten gewählt werden.",
+      "quelle": "https://www.neueroeffnung.info/weinheim/cafe-amo",
+      "adresse": "Marktplatz 4, 69469 Weinheim"
     },
     {
       "name": "SLR Hotel",
@@ -300,7 +372,7 @@
       "kategorie": "bald",
       "datum": "2027 (Datum unklar)",
       "potenzial": "gering",
-      "notiz": "NEU. Signal: Hotel-Pipeline (Baubeginn 2024). Gastronomie-Umfang unklar, eher Frühstück.",
+      "notiz": "Bekannt aus KW 47. Signal: Hotel-Pipeline (Baubeginn 2024), Kurpfalzstraße. Gastronomie-Umfang unklar, eher Frühstück.",
       "quelle": "https://www.hotelier.de/hotellerie/hotelgewerbe/neue-hotels-deutschland-internationale-hoteleroeffnungen",
       "adresse": null
     },
@@ -312,7 +384,7 @@
       "kategorie": "bald",
       "datum": "frühestens Q4 2027",
       "potenzial": "gering",
-      "notiz": "NEU im Radar. Erneut verschoben; Eröffnung nur, wenn alle Gewerke planmäßig abgenommen werden. Langfrist-Kontakt.",
+      "notiz": "Bekannt aus KW 47. Restaurant „Blu“. Erneut verschoben; frühestens Q4 2027. Langfrist-Kontakt.",
       "quelle": "https://www.rnz.de/region/heidelberg_artikel,-Heidelberg-Wann-eroeffnet-endlich-das-Restaurant-auf-dem-Energiespeicher-_arid,2398888.html",
       "adresse": "Pfaffengrund, Heidelberg"
     },
@@ -336,7 +408,7 @@
       "kategorie": "bald",
       "datum": "26.11.2026",
       "potenzial": "mittel",
-      "notiz": "Bekannt. Gebietsrand Nord. Pizza Hut/Taco Bell am selben Standort, Termin offen.",
+      "notiz": "Bekannt. Gebietsrand Nord. Termin 26.11.2026 (diese Woche). Pizza Hut/Taco Bell am selben Standort, Termin offen.",
       "quelle": null,
       "adresse": null
     },
@@ -348,7 +420,7 @@
       "kategorie": "bald",
       "datum": "Nov. 2026",
       "potenzial": "mittel",
-      "notiz": "Bekannt. Weiter für November gelistet, genauer Termin nicht bestätigt – vor Anruf prüfen.",
+      "notiz": "Bekannt. Weiter für November gelistet, keine Bestätigung der Eröffnung gefunden – vor Anruf prüfen.",
       "quelle": null,
       "adresse": null
     },
@@ -372,9 +444,21 @@
       "kategorie": "bald",
       "datum": "2. Novemberwoche 2026 (Eröffnung nicht bestätigt)",
       "potenzial": "hoch",
-      "notiz": "Bekannt. Keine Bestätigung der Eröffnung gefunden – anrufen und nachfragen. Mo–So 11–23 Uhr geplant, Frühstück/Mittag/Abend.",
+      "notiz": "Bekannt. Weiter keine Bestätigung der Eröffnung (geplant 2. Novemberwoche) – anrufen und nachfragen. Mo–So 11–23 Uhr geplant.",
       "quelle": "https://www.neueroeffnung.info/worms/zum-propeller-restaurant",
       "adresse": "Am Flugplatz, Worms"
+    },
+    {
+      "name": "Café jireh",
+      "ort": "Worms",
+      "teilgebiet": "Worms/Frankenthal",
+      "art": "Café (Frühstück, Kuchen)",
+      "kategorie": "bald",
+      "datum": "Mitte–Ende Nov. 2026",
+      "potenzial": "gering",
+      "notiz": "NEU. Hanna Groebe (27) eröffnet ein Café in der Hafergasse, zunächst Do–Sa geöffnet. Start sollte jetzt erfolgen.",
+      "quelle": "https://www.merkurist.de/rheinhessen/gemischt/neues-cafe-eroeffnet-in-der-wormser-innenstadt-art-28191",
+      "adresse": "Hafergasse 2a, 67547 Worms"
     },
     {
       "name": "Parkschenke",
@@ -396,7 +480,7 @@
       "kategorie": "bald",
       "datum": "17.12.2026",
       "potenzial": "hoch",
-      "notiz": "NEU. Käsbüro (Dorfplatz 1) schließt am 22.11.2026, das neue Restaurant „Weinrefugium“ öffnet am 17.12.2026 in der Schlachthausstraße 1a. Bekannter Betreiber, neue Küche – jetzt vor Eröffnung anrufen.",
+      "notiz": "Bekannt aus KW 47. Käsbüro hat am 22.11.2026 geschlossen, „Weinrefugium“ öffnet am 17.12.2026 in der Schlachthausstraße 1a. Umbau-/Planungsphase jetzt – Anruf diese Woche.",
       "quelle": "https://xn--ksbro-gra4o.de/",
       "adresse": "Schlachthausstraße 1a, Bad Dürkheim-Seebach"
     },
@@ -432,9 +516,21 @@
       "kategorie": "bald",
       "datum": "Ende 2026",
       "potenzial": "mittel",
-      "notiz": "Stand aus KW 46 unverändert; Termin vor Anruf prüfen.",
+      "notiz": "Stand aus KW 46 unverändert; aktuell keine Bestätigung im Netz gefunden – Termin vor Anruf prüfen.",
       "quelle": null,
       "adresse": null
+    },
+    {
+      "name": "Café PaPi-llon (Therapiezentrum Eichholz)",
+      "ort": "Neustadt an der Weinstraße",
+      "teilgebiet": "Vorderpfalz",
+      "art": "Café",
+      "kategorie": "bald",
+      "datum": "23.01.2027",
+      "potenzial": "gering",
+      "notiz": "NEU. Café im Therapiezentrum Eichholz geplant. Kleiner Betrieb, aber frühzeitiger Kontakt möglich.",
+      "quelle": "https://www.neueroeffnung.info/neustadt-an-der-weinstrasse/cafe-papi-llon",
+      "adresse": "Lindenstraße 25, Neustadt an der Weinstraße"
     }
   ]
 }
